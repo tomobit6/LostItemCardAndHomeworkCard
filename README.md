@@ -8,7 +8,7 @@
    [忘れ物調べカード](https://drive.google.com/file/d/17LNQWazuVmQWVNMQsr38Ehom2gIGWyon/view?usp=drive_link)　
    [家庭学習カード](https://drive.google.com/file/d/1yESOMmqqOkJUpTPyz4YXNcbtLbIWrCG0/view?usp=drive_link)　
  - 利用イメージ
-   
+   https://github.com/user-attachments/assets/e74c40a0-ec33-4e58-a950-72ac8180dc26
 ## 工夫した点と課題
 忘れ物調べカードについては、授業日のみ表に配列すべきです。基本的に土日が休みなので、土日は非表示にします。ただ土曜日に参観日がある日や平日に代休日や祝日が入ることもあるので、週休日の授業日
 及び休日の設定ボタンで自由に特定の日を表示・非表示できるようにしました。
